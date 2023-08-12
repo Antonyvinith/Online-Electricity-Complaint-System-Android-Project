@@ -5,3 +5,4 @@ To login for a admin and view the complaints use the user-Antony,Password-antony
 This is actually based on chamundeshwari electriicty corporation,Mysore
 Now you can register your complaint even add iamges
 and view by using the admin -> My Complaints
+[![2.jpg](https://i.postimg.cc/fLZ7QhSc/2.jpg)](https://postimg.cc/1gCVD2HX)
